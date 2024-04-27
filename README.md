@@ -1,6 +1,8 @@
+<img src="https://media.licdn.com/dms/image/D5616AQHmX17e1eit3w/profile-displaybackgroundimage-shrink_350_1400/0/1705222536592?e=1719446400&v=beta&t=ceF7n3Ub8rniXmUIFABElawvTvwxh32XeKBve810TcU">
+
 ### Hi there 👋, This is  Mozahidul Islam Nahid
 #### Web Developer and DevOps Engineer
-![Web Developer and DevOps Engineer](https://media.licdn.com/dms/image/D5616AQHmX17e1eit3w/profile-displaybackgroundimage-shrink_350_1400/0/1705222536592?e=1719446400&v=beta&t=ceF7n3Ub8rniXmUIFABElawvTvwxh32XeKBve810TcU)
+
 
 Being an Engineer, I am always eager to learn new things. In my 6 years working career, I have worked as a DevOps Engineer for 1 year and as an Admin & Procurement - Specialist for 4.5 years. Currently I focus my full career on Web Development and DevOps Engineer. For this I am doing a professional course on DevOps Engineering and practicing Web development myself.
 
