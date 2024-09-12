@@ -8,10 +8,10 @@ Being an Engineer, I am always eager to learn new things. In my 6 years working 
 For build my Web Development and DevOps Engineering career, currently I am doing some paid course from Udemy and Bangladeshi trainer and online free resources. My career goal is to help any company to build a website from scratch (full stack and server administrations support) I love working with server, so I keep practicing DevOps Courses. I think it's important to maintain a website right after it's built. And I want to be a part of this important task or works.
 Thank You!
 
-Skills:  HTML / CSS / Boostrap / React / Nodejs / Docker / Docker compose / Server Setup / NoSQL / SQL / MySQL / AWS / Canva
+Skills:  Docker / Docker compose / Server Setup / NoSQL / SQL / MySQL / AWS / Ansible / CI/CD / Canva
 
-- 🌱 I’m currently learning DevOps Engineering, JavaScrip, React  
-- 💬 Ask me about: Server Setup, Docker Setup, LAMP Setup, Server Management, Frontend  
+- 🌱 I’m currently learning DevOps Engineering 
+- 💬 Ask me about: Server Setup, Docker Setup, LAMP Setup, Server Management, Configuration management
 - 📫 How to reach me: nahid.mozahid@gmail.com  
 
 
