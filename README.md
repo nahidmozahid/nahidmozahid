@@ -1,12 +1,9 @@
 
 ### Hi there 👋, This is  Mozahidul Islam Nahid
-#### Web Developer and DevOps Engineer
+#### DevOps Engineer
 
 
-Being an Engineer, I am always eager to learn new things. In my 6 years working career, I have worked as a DevOps Engineer for 1 year and as an Admin & Procurement - Specialist for 4.5 years. Currently I focus my full career on Web Development and DevOps Engineer. For this I am doing a professional course on DevOps Engineering and practicing Web development myself.
 
-For build my Web Development and DevOps Engineering career, currently I am doing some paid course from Udemy and Bangladeshi trainer and online free resources. My career goal is to help any company to build a website from scratch (full stack and server administrations support) I love working with server, so I keep practicing DevOps Courses. I think it's important to maintain a website right after it's built. And I want to be a part of this important task or works.
-Thank You!
 
 Skills:  Docker / Docker compose / Server Setup / NoSQL / SQL / MySQL / AWS / Ansible / CI/CD / Canva
 
