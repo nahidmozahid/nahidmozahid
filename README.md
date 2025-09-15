@@ -18,7 +18,6 @@ I'm a **DevOps Engineer** with over one and a half years of hands-on experience 
 
 
 ### **Infrastructure as Code (IaC)**
-![Terraform](https://img.shields.io/badge/Terraform-7B42B0?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
 ### **Monitoring & Logging**
@@ -32,7 +31,6 @@ I'm a **DevOps Engineer** with over one and a half years of hands-on experience 
 
 ### **Scripting & Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=groovy&logoColor=white)
 
 ### **Database Management**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -44,4 +42,4 @@ I'm a **DevOps Engineer** with over one and a half years of hands-on experience 
 ![Apache](https://img.shields.io/badge/Apache-FF7A00?style=flat&logo=apache&logoColor=white)
 
 ## 🌱 Current Learning
-I'm constantly exploring new tools and practices in the DevOps space. Currently, I'm diving deeper into **Kubernetes** and **cloud-native technologies** to further optimize infrastructure and deployment processes.
+I'm constantly exploring new tools and practices in the DevOps space. Currently, I'm diving deeper into **Kubernetes** and **cloud-native technologies** to optimize infrastructure and deployment processes further.
