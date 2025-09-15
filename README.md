@@ -1,6 +1,6 @@
 # Hi, I'm Mozahidul Islam Nahid👋
 
-I'm a **DevOps Engineer** with over 2 years of hands-on experience in automating, optimizing, and managing software deployment pipelines and cloud infrastructure. I specialize in CI/CD, containerization, and cloud services, aiming to bridge the gap between development and operations to deliver high-quality solutions.
+I'm a **DevOps Engineer** with over one and a half years of hands-on experience in automating, optimizing, and managing software deployment pipelines and cloud infrastructure. I specialize in CI/CD, containerization, and cloud services, aiming to bridge the gap between development and operations to deliver high-quality solutions.
 
 ## 🚀 Technologies & Tools
 
